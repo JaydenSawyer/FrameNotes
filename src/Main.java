@@ -13,7 +13,7 @@ public class Main {
         panel.setBackground(new Color(100,200,150));
         // 3 Create components
         JLabel label = new JLabel("GoodBye World");
-        JButton button = new JButton("Push Me!");
+        JButton button = new JButton("Don't push button");
         JTextField textField = new JTextField(15);
         JScrollBar scrollBar = new JScrollBar(Adjustable.HORIZONTAL,10,100,1,1000);
 
